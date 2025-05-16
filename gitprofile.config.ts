@@ -40,81 +40,81 @@ const CONFIG = {
                         '',
                     link: 'https://play.google.com/store/apps/details?id=com.FiniteGameStudio.TopicWordLinkFGS&hl=en',
                 },
-                {
-                    title: 'DriveUp (released 2021 & released 2025)',
-                    description:
-                        `Released in 2021, it was my first legitimate complete game. Later in 2025, I remastered it and published it again. It’s a 2D hill climbing 
-                        racing game. No third party assets were used, even in the remastered version.`,
-                    imageUrl:
-                        'https://raw.githubusercontent.com/keckstreme/portfolio/main/stuff/RESUMEmedia/DriveUp/iconm.png',
-                    link: 'https://play.google.com/store/apps/details?id=com.BurakKeklik.DriveUp',
-                },
-                {
-                    title: '“Tofas Bursa Fabrikasi” (2024)',
-                    description:
-                        `Players can create as many cars as they want without any limitations and drive those cars in world maps. Players are able to save, load, 
-                        duplicate, and rename their cars. Pinch to zoom map and camera. Offering advanced controls and freedom.`,
-                    imageUrl:
-                        '',
-                    link: 'https://www.youtube.com/watch?v=rJKiJ5CFUgg',
-                },
-                {
-                    title: 'Mech Survivors (2023)',
-                    description:
-                        `This was a child of Vampire Survivors trend. It was far from finished, but had a cool UI and 3D models that I created so I wanted to feature 
-                        it here.`,
-                    imageUrl:
-                        '',
-                    link: 'https://www.youtube.com/watch?v=bBl05aa48qM',
-                },
-                {
-                    title: 'driving tech (2022)',
-                    description:
-                        `Realistic arcade car physics`,
-                    imageUrl:
-                        '',
-                    link: 'https://www.youtube.com/watch?v=VH04U8l49HU',
-                },
-                {
-                    title: 'Charge It All (2022)',
-                    description:
-                        `Charge incoming phones by selecting empty and correct charging plugs.`,
-                    imageUrl:
-                        '',
-                    link: '',
-                },
-                {
-                    title: 'Zombie Defense (2022)',
-                    description:
-                        `I wanted to create a game that I would play, therefore Zombie Defense was born. It’s a base defender shooter game.`,
-                    imageUrl:
-                        '',
-                    link: '',
-                },
-                {
-                    title: 'Shift Race (2022)',
-                    description:
-                        `My second 3D hyper-casual game under Lecten. It's a drag racing game with obstacles. Player needs to modify their car in real time to avoid losing speed.`,
-                    imageUrl:
-                        '',
-                    link: '',
-                },
-                {
-                    title: 'Toony Race (2022)',
-                    description:
-                        `My first hyper-casual and 3D game under the umbrella of Lecten. It's a level based racing game with Mario Kart mechanics.`,
-                    imageUrl:
-                        '',
-                    link: '',
-                },
-                {
-                    title: 'Incremental Jump (2021)',
-                    description:
-                        `Released in 2021, it was my second game after DriveUp. It was a Doodle Jump with incremental score features. Incremental Jump was mainly an experiment/exercise. `,
-                    imageUrl:
-                        '',
-                    link: 'https://www.youtube.com/watch?v=ojJYCIj-NEk',
-                },
+                //{
+                //    title: 'DriveUp (released 2021 & released 2025)',
+                //    description:
+                //        `Released in 2021, it was my first legitimate complete game. Later in 2025, I remastered it and published it again. It’s a 2D hill climbing 
+                //        racing game. No third party assets were used, even in the remastered version.`,
+                //    imageUrl:
+                //        'https://raw.githubusercontent.com/keckstreme/portfolio/main/stuff/RESUMEmedia/DriveUp/iconm.png',
+                //    link: 'https://play.google.com/store/apps/details?id=com.BurakKeklik.DriveUp',
+                //},
+                //{
+                //    title: '“Tofas Bursa Fabrikasi” (2024)',
+                //    description:
+                //        `Players can create as many cars as they want without any limitations and drive those cars in world maps. Players are able to save, load, 
+                //        duplicate, and rename their cars. Pinch to zoom map and camera. Offering advanced controls and freedom.`,
+                //    imageUrl:
+                //        '',
+                //    link: 'https://www.youtube.com/watch?v=rJKiJ5CFUgg',
+                //},
+                //{
+                //    title: 'Mech Survivors (2023)',
+                //    description:
+                //        `This was a child of Vampire Survivors trend. It was far from finished, but had a cool UI and 3D models that I created so I wanted to feature 
+                //        it here.`,
+                //    imageUrl:
+                //        '',
+                //    link: 'https://www.youtube.com/watch?v=bBl05aa48qM',
+                //},
+                //{
+                //    title: 'driving tech (2022)',
+                //    description:
+                //        `Realistic arcade car physics`,
+                //    imageUrl:
+                //        '',
+                //    link: 'https://www.youtube.com/watch?v=VH04U8l49HU',
+                //},
+                //{
+                //    title: 'Charge It All (2022)',
+                //    description:
+                //        `Charge incoming phones by selecting empty and correct charging plugs.`,
+                //    imageUrl:
+                //        '',
+                //    link: '',
+                //},
+                //{
+                //    title: 'Zombie Defense (2022)',
+                //    description:
+                //        `I wanted to create a game that I would play, therefore Zombie Defense was born. It’s a base defender shooter game.`,
+                //    imageUrl:
+                //        '',
+                //    link: '',
+                //},
+                //{
+                //    title: 'Shift Race (2022)',
+                //    description:
+                //        `My second 3D hyper-casual game under Lecten. It's a drag racing game with obstacles. Player needs to modify their car in real time to avoid losing speed.`,
+                //    imageUrl:
+                //        '',
+                //    link: '',
+                //},
+                //{
+                //    title: 'Toony Race (2022)',
+                //    description:
+                //        `My first hyper-casual and 3D game under the umbrella of Lecten. It's a level based racing game with Mario Kart mechanics.`,
+                //    imageUrl:
+                //        '',
+                //    link: '',
+                //},
+                //{
+                //    title: 'Incremental Jump (2021)',
+                //    description:
+                //        `Released in 2021, it was my second game after DriveUp. It was a Doodle Jump with incremental score features. Incremental Jump was mainly an experiment/exercise. `,
+                //    imageUrl:
+                //        '',
+                //    link: 'https://www.youtube.com/watch?v=ojJYCIj-NEk',
+                //},
             ],
         },
     },
