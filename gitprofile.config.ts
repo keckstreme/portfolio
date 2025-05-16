@@ -35,7 +35,8 @@ const CONFIG = {
                 {
                     title: 'Topic Word Link (released 2025)',
                     description:
-                        'My first puzzle game under Finite Game Studio Ltd. It’s a word connect game with many minigames. Main gameplay is a word connect puzzle game.',
+                        `My first puzzle game under Finite Game Studio Ltd. It’s a word connect game with many minigames. Main gameplay is a word connect puzzle game.\n
+                        click to go to Google Play Page`,
                     imageUrl:
                         'https://raw.githubusercontent.com/keckstreme/portfolio/main/stuff/RESUMEmedia/TopicWordLink/twl_icon.png',
                     link: 'https://play.google.com/store/apps/details?id=com.FiniteGameStudio.TopicWordLinkFGS&hl=en',
@@ -81,7 +82,7 @@ const CONFIG = {
                         `Charge incoming phones by selecting empty and correct charging plugs.`,
                     imageUrl:
                         'https://raw.githubusercontent.com/keckstreme/portfolio/main/stuff/RESUMEmedia/',
-                    link: '',
+                    link: '#',
                 },
                 {
                     title: 'Zombie Defense (2022)',
