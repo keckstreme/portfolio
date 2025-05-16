@@ -80,7 +80,7 @@ const CONFIG = {
     },
     resume: {
         fileUrl:
-            'https://keckstreme.github.io/portfolio/stuff/RESUME.pdf', // Empty fileUrl will hide the `Download Resume` button.
+            'stuff/RESUME.pdf', // Empty fileUrl will hide the `Download Resume` button.
     },
     skills: [
         'Unity',
@@ -88,6 +88,7 @@ const CONFIG = {
         'Git',
         'Blender',
         'Photoshop',
+        'Illustrator',
         'Google Play Services',
         'Apple Game Center',
         'AdMob',
@@ -121,50 +122,47 @@ const CONFIG = {
     ],
     certifications: [
         {
-            name: 'Lorem ipsum',
-            body: 'Lorem ipsum dolor sit amet',
-            year: 'March 2022',
-            link: 'https://example.com',
+            name: '',
+            body: '',
+            year: '',
+            link: '',
         },
     ],
     educations: [
         {
-            institution: 'Institution Name',
-            degree: 'Degree',
-            from: '2015',
-            to: '2019',
+            institution: 'Selcuk University',
+            degree: 'Computer Engineering',
+            from: '2021',
+            to: 'Current',
         },
         {
-            institution: 'Institution Name',
-            degree: 'Degree',
-            from: '2012',
-            to: '2014',
+            institution: 'Middle East Technical University',
+            degree: 'Computer Engineering',
+            from: '2018',
+            to: '2020',
+        },
+        {
+            institution: 'Konya MTAL',
+            degree: 'Computer Technician',
+            from: '2013',
+            to: '2017',
         },
     ],
     publications: [
         {
-            title: 'Publication Title',
+            title: '',
             conferenceName: '',
-            journalName: 'Journal Name',
-            authors: 'John Doe, Jane Smith',
-            link: 'https://example.com',
-            description:
-                'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-        },
-        {
-            title: 'Publication Title',
-            conferenceName: 'Conference Name',
             journalName: '',
-            authors: 'John Doe, Jane Smith',
-            link: 'https://example.com',
+            authors: '',
+            link: '',
             description:
-                'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+                '',
         },
     ],
     // Display articles from your medium or dev account. (Optional)
     blog: {
-        source: 'dev', // medium | dev
-        username: 'arifszn', // to hide blog section, keep it empty
+        source: '', // medium | dev
+        username: '', // to hide blog section, keep it empty
         limit: 2, // How many articles to display. Max is 10.
     },
     googleAnalytics: {
@@ -176,7 +174,7 @@ const CONFIG = {
         snippetVersion: 6,
     },
     themeConfig: {
-        defaultTheme: 'lofi',
+        defaultTheme: 'dark',
 
         // Hides the switch in the navbar
         // Useful if you want to support a single color mode
@@ -193,37 +191,37 @@ const CONFIG = {
         themes: [
             'light',
             'dark',
-            'cupcake',
-            'bumblebee',
-            'emerald',
-            'corporate',
-            'synthwave',
-            'retro',
-            'cyberpunk',
-            'valentine',
-            'halloween',
-            'garden',
-            'forest',
-            'aqua',
-            'lofi',
-            'pastel',
-            'fantasy',
-            'wireframe',
-            'black',
-            'luxury',
-            'dracula',
-            'cmyk',
-            'autumn',
-            'business',
-            'acid',
-            'lemonade',
-            'night',
-            'coffee',
-            'winter',
-            'dim',
-            'nord',
-            'sunset',
-            'procyon',
+            //'cupcake',
+            //'bumblebee',
+            //'emerald',
+            //'corporate',
+            //'synthwave',
+            //'retro',
+            //'cyberpunk',
+            //'valentine',
+            //'halloween',
+            //'garden',
+            //'forest',
+            //'aqua',
+            //'lofi',
+            //'pastel',
+            //'fantasy',
+            //'wireframe',
+            //'black',
+            //'luxury',
+            //'dracula',
+            //'cmyk',
+            //'autumn',
+            //'business',
+            //'acid',
+            //'lemonade',
+            //'night',
+            //'coffee',
+            //'winter',
+            //'dim',
+            //'nord',
+            //'sunset',
+            //'procyon',
         ],
 
         // Custom theme, applied to `procyon` theme
@@ -239,11 +237,7 @@ const CONFIG = {
     },
 
     // Optional Footer. Supports plain text or HTML.
-    footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    footer: '',//`Made with <a class="text-primary" href="https://github.com/arifszn/gitprofile" target="_blank" rel="noreferrer">GitProfile</a> and ❤️`,
 
     enablePWA: true,
 };
