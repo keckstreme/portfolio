@@ -37,7 +37,7 @@ const CONFIG = {
                     description:
                         'My first puzzle game under Finite Game Studio Ltd. It’s a word connect game with many minigames. Main gameplay is a word connect puzzle game.',
                     imageUrl:
-                        '',
+                        'https://raw.githubusercontent.com/keckstreme/portfolio/main/stuff/RESUMEmedia/TopicWordLink/twl_icon.png',
                     link: 'https://play.google.com/store/apps/details?id=com.FiniteGameStudio.TopicWordLinkFGS&hl=en',
                 },
                 {
@@ -55,7 +55,7 @@ const CONFIG = {
                         `Players can create as many cars as they want without any limitations and drive those cars in world maps. Players are able to save, load, 
                         duplicate, and rename their cars. Pinch to zoom map and camera. Offering advanced controls and freedom.`,
                     imageUrl:
-                        '',
+                        'https://raw.githubusercontent.com/keckstreme/portfolio/main/stuff/RESUMEmedia/Tofas/techdemo_3.gif',
                     link: 'https://www.youtube.com/watch?v=rJKiJ5CFUgg',
                 },
                 {
@@ -64,7 +64,7 @@ const CONFIG = {
                         `This was a child of Vampire Survivors trend. It was far from finished, but had a cool UI and 3D models that I created so I wanted to feature 
                         it here.`,
                     imageUrl:
-                        '',
+                        'https://raw.githubusercontent.com/keckstreme/portfolio/main/stuff/RESUMEmedia/MechSurvivors/verysecretproject_2.gif',
                     link: 'https://www.youtube.com/watch?v=bBl05aa48qM',
                 },
                 {
@@ -72,7 +72,7 @@ const CONFIG = {
                     description:
                         `Realistic arcade car physics`,
                     imageUrl:
-                        '',
+                        'https://raw.githubusercontent.com/keckstreme/portfolio/main/stuff/RESUMEmedia/Driving/Driving-1.gif',
                     link: 'https://www.youtube.com/watch?v=VH04U8l49HU',
                 },
                 {
@@ -80,7 +80,7 @@ const CONFIG = {
                     description:
                         `Charge incoming phones by selecting empty and correct charging plugs.`,
                     imageUrl:
-                        '',
+                        'https://raw.githubusercontent.com/keckstreme/portfolio/main/stuff/RESUMEmedia/',
                     link: '',
                 },
                 {
@@ -88,7 +88,7 @@ const CONFIG = {
                     description:
                         `I wanted to create a game that I would play, therefore Zombie Defense was born. It’s a base defender shooter game.`,
                     imageUrl:
-                        '',
+                        'https://raw.githubusercontent.com/keckstreme/portfolio/main/stuff/RESUMEmedia/',
                     link: '',
                 },
                 {
@@ -96,7 +96,7 @@ const CONFIG = {
                     description:
                         `My second 3D hyper-casual game under Lecten. It's a drag racing game with obstacles. Player needs to modify their car in real time to avoid losing speed.`,
                     imageUrl:
-                        '',
+                        'https://raw.githubusercontent.com/keckstreme/portfolio/main/stuff/RESUMEmedia/',
                     link: '',
                 },
                 {
@@ -104,7 +104,7 @@ const CONFIG = {
                     description:
                         `My first hyper-casual and 3D game under the umbrella of Lecten. It's a level based racing game with Mario Kart mechanics.`,
                     imageUrl:
-                        '',
+                        'https://raw.githubusercontent.com/keckstreme/portfolio/main/stuff/RESUMEmedia/',
                     link: '',
                 },
                 {
@@ -112,7 +112,7 @@ const CONFIG = {
                     description:
                         `Released in 2021, it was my second game after DriveUp. It was a Doodle Jump with incremental score features. Incremental Jump was mainly an experiment/exercise. `,
                     imageUrl:
-                        '',
+                        'https://raw.githubusercontent.com/keckstreme/portfolio/main/stuff/RESUMEmedia/',
                     link: 'https://www.youtube.com/watch?v=ojJYCIj-NEk',
                 },
             ],
