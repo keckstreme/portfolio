@@ -29,16 +29,16 @@ const CONFIG = {
             },
         },
         external: {
-            header: 'My Projects',
+            header: 'Projects',
             // To hide the `External Projects` section, keep it empty.
             projects: [
                 {
-                    title: 'Project Name',
+                    title: 'DriveUp (released 2021 & released 2025)',
                     description:
                         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
                     imageUrl:
                         'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-                    link: 'https://example.com',
+                    link: 'https://play.google.com/store/apps/details?id=com.BurakKeklik.DriveUp',
                 },
                 {
                     title: 'Project Name',
@@ -65,7 +65,7 @@ const CONFIG = {
         instagram: '',
         reddit: '',
         threads: '',
-        youtube: '', // example: 'pewdiepie'
+        youtube: 'keckstreme', // example: 'pewdiepie'
         udemy: '',
         dribbble: '',
         behance: '',
@@ -80,7 +80,7 @@ const CONFIG = {
     },
     resume: {
         fileUrl:
-            'stuff/RESUME.pdf', // Empty fileUrl will hide the `Download Resume` button.
+            'https://raw.githubusercontent.com/keckstreme/portfolio/stuff/RESUME.pdf', // Empty fileUrl will hide the `Download Resume` button.
     },
     skills: [
         'Unity',
@@ -148,6 +148,7 @@ const CONFIG = {
             to: '2017',
         },
     ],
+
     publications: [
         {
             title: '',
@@ -174,7 +175,7 @@ const CONFIG = {
         snippetVersion: 6,
     },
     themeConfig: {
-        defaultTheme: 'dark',
+        defaultTheme: 'light',
 
         // Hides the switch in the navbar
         // Useful if you want to support a single color mode
@@ -239,7 +240,7 @@ const CONFIG = {
     // Optional Footer. Supports plain text or HTML.
     footer: '',//`Made with <a class="text-primary" href="https://github.com/arifszn/gitprofile" target="_blank" rel="noreferrer">GitProfile</a> and ❤️`,
 
-    enablePWA: true,
+    enablePWA: false, // GitProfile is PWA enabled. The site can be installed as a Progressive Web App. To turn it off, set enablePWA to false.
 };
 
 export default CONFIG;
