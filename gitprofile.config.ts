@@ -32,14 +32,14 @@ const CONFIG = {
             header: 'Projects',
             // To hide the `External Projects` section, keep it empty.
             projects: [
-                {
-                    title: 'Topic Word Link (released 2025)',
-                    description:
-                        'My first puzzle game under Finite Game Studio Ltd. It’s a word connect game with many minigames. Main gameplay is a word connect puzzle game.',
-                    imageUrl:
-                        '',
-                    link: 'https://play.google.com/store/apps/details?id=com.FiniteGameStudio.TopicWordLinkFGS&hl=en',
-                },
+                //{
+                //    title: 'Topic Word Link (released 2025)',
+                //    description:
+                //        'My first puzzle game under Finite Game Studio Ltd. It’s a word connect game with many minigames. Main gameplay is a word connect puzzle game.',
+                //    imageUrl:
+                //        '',
+                //    link: 'https://play.google.com/store/apps/details?id=com.FiniteGameStudio.TopicWordLinkFGS&hl=en',
+                //},
                 //{
                 //    title: 'DriveUp (released 2021 & released 2025)',
                 //    description:
