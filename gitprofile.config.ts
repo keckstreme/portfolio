@@ -164,7 +164,7 @@ const CONFIG = {
     },
     resume: {
         fileUrl:
-            'https://raw.githubusercontent.com/keckstreme/portfolio/main/stuff/RESUME.pdf', // Empty fileUrl will hide the `Download Resume` button.
+            'https://raw.githubusercontent.com/keckstreme/portfolio/main/stuff/Burak-Keklik-CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
     },
     skills: [
         'Unity',
