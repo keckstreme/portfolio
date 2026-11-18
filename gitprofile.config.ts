@@ -35,7 +35,7 @@ const CONFIG = {
                 {
                     title: 'Toilet Paper Idle (2026) (Steam) (Itch.io)',
                     description:
-                        ``,
+                        `An incremental idle game about rolling toilet papers, and cats.`,
                     imageUrl:
                         'https://raw.githubusercontent.com/keckstreme/portfolio/main/stuff/RESUMEmedia/ToiletPaperIdle/tpi.png',
                     link: 'https://store.steampowered.com/app/4280420/Toilet_Paper_Idle/',
