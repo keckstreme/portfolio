@@ -33,25 +33,31 @@ const CONFIG = {
             // To hide the `External Projects` section, keep it empty.
             projects: [
                 {
-                    title: 'Topic Word Link (released 2025)',
+                    title: 'Toilet Paper Idle (2026) (Steam) (Itch.io)',
                     description:
-                        `My first puzzle game under Finite Game Studio Ltd. It’s a word connect game with many minigames. Main gameplay is a word connect puzzle game. 
-                        Click to go to Google Play page.`,
+                        ``,
+                    imageUrl:
+                        'https://raw.githubusercontent.com/keckstreme/portfolio/main/stuff/RESUMEmedia/ToiletPaperIdle/tpi.png',
+                    link: 'https://store.steampowered.com/app/4280420/Toilet_Paper_Idle/',
+                },
+                {
+                    title: 'Grind My Gears - Prototype (2026) (Itch.io)',
+                    description:
+                        `Grind My Gears is a gear physics focused 3D sandbox game. Attach unlimited amount of gears together with any arbitrary gear ratios and watch chaos unfold.`,
+                    imageUrl:
+                        'https://raw.githubusercontent.com/keckstreme/portfolio/main/stuff/RESUMEmedia/GrindMyGears/gmg.png',
+                    link: 'https://chiz-games.itch.io/grind-my-gears-playtest',
+                },
+                {
+                    title: 'Topic Word Link (2025) (App Store) (Google Play)',
+                    description:
+                        `My first puzzle game under Finite Game Studio Ltd. It’s a word connect game with many minigames. Main gameplay is a word connect puzzle game.`,
                     imageUrl:
                         'https://raw.githubusercontent.com/keckstreme/portfolio/main/stuff/RESUMEmedia/TopicWordLink/twl_icon.jpg',
                     link: 'https://play.google.com/store/apps/details?id=com.FiniteGameStudio.TopicWordLinkFGS&hl=en',
                 },
                 {
-                    title: 'DriveUp (released 2021 & released 2025)',
-                    description:
-                        `Released in 2021, it was my first legitimate complete game. Later in 2025, I remastered it and published it again. It’s a 2D hill climbing 
-                        racing game. No third party assets were used, even in the remastered version. Click to go to Google Play page.`,
-                    imageUrl:
-                        'https://raw.githubusercontent.com/keckstreme/portfolio/main/stuff/RESUMEmedia/DriveUp/iconm.png',
-                    link: 'https://play.google.com/store/apps/details?id=com.BurakKeklik.DriveUp',
-                },
-                {
-                    title: '“Tofas Bursa Fabrikasi” (2024)',
+                    title: '“Tofas Bursa Fabrikasi” - Prototype (2024)',
                     description:
                         `Players can create as many cars as they want without any limitations and drive those cars in world maps. Players are able to save, load, 
                         duplicate, and rename their cars. Pinch to zoom map and camera. Offering advanced controls and freedom. Click to see YouTube video.`,
@@ -109,13 +115,22 @@ const CONFIG = {
                     link: '#',
                 },
                 {
-                    title: 'Incremental Jump (2021)',
+                    title: 'Incremental Jump (2021 & 2025) (Google Play)',
                     description:
                         `Released in 2021, it was my second game after DriveUp. It was a Doodle Jump with incremental score features. Incremental Jump was mainly an experiment/exercise. 
                         Click to see YouTube video.`,
                     imageUrl:
                         'https://raw.githubusercontent.com/keckstreme/portfolio/main/stuff/RESUMEmedia/IncrementalJump/appicon.png',
-                    link: 'https://www.youtube.com/watch?v=ojJYCIj-NEk',
+                    link: 'https://play.google.com/store/apps/details?id=com.BurakKeklik.IncrementalJump',
+                },
+                {
+                    title: 'DriveUp (2021 & 2025) (Google Play)',
+                    description:
+                        `Released in 2021, it was my first legitimate complete game. Later in 2025, I remastered it and published it again. It’s a 2D hill climbing 
+                        racing game. No third party assets were used, even in the remastered version. Click to go to Google Play page.`,
+                    imageUrl:
+                        'https://raw.githubusercontent.com/keckstreme/portfolio/main/stuff/RESUMEmedia/DriveUp/iconm.png',
+                    link: 'https://play.google.com/store/apps/details?id=com.BurakKeklik.DriveUp',
                 },
             ],
         },
@@ -154,6 +169,7 @@ const CONFIG = {
     skills: [
         'Unity',
         'C#',
+        'AI',
         'Git',
         'Blender',
         'Photoshop',
