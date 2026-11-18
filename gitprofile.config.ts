@@ -138,7 +138,7 @@ const CONFIG = {
     seo: {
         title: 'Portfolio of Burak Keklik',
         description: '',
-        imageURL: '',
+        imageURL: 'https://raw.githubusercontent.com/keckstreme/portfolio/main/stuff/pp.jpg',
     },
     social: {
         linkedin: 'burak-keklik',
